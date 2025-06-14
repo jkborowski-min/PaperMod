@@ -1,0 +1,27 @@
+name: TurtleMod
+main: me.TurtleMod.TurtlePlugin
+version: 1.1
+api-version: 1.21
+commands:
+  back:
+    description: Teleport to your last location
+  spawn:
+    description: Teleport to spawn (0,10,0)
+  bal:
+    description: View your turtle coins
+    aliases: [balance]
+  pay:
+    description: Pay another player turtle coins
+    usage: /pay <player> <amount>
+  gift:
+    description: Gift another player turtle coins
+    usage: /gift <player> <amount>
+  sudo:
+    description: Send chat as another player
+    usage: /sudo <player> <message>
+  say:
+    description: Say something as the server
+    usage: /say <message>
+  market:
+    description: Open the market menu
+    usage: /market

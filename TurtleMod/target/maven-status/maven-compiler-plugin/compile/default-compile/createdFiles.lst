@@ -1,0 +1,14 @@
+me\TurtleMod\npc\JerryManager.class
+me\TurtleMod\commands\PayCommand.class
+me\TurtleMod\BackManager.class
+me\TurtleMod\commands\GiftCommand.class
+me\TurtleMod\commands\SudoCommand.class
+me\TurtleMod\commands\SpawnCommand.class
+me\TurtleMod\commands\BackCommand.class
+me\TurtleMod\listeners\PlayerListener.class
+me\TurtleMod\TurtlePlugin.class
+me\TurtleMod\npc\JerryManager$2.class
+me\TurtleMod\npc\JerryManager$1.class
+me\TurtleMod\listeners\DeathListener.class
+me\TurtleMod\commands\BalanceCommand.class
+me\TurtleMod\MoneyManager.class
